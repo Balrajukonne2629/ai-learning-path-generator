@@ -25,10 +25,10 @@ An AI-powered web application that generates personalized learning roadmaps base
 
 ## Screenshots
 ### project directory
-<img width="1911" height="870" alt="Screenshot 2026-04-20 181957" src="https://github.com/user-attachments/assets/9c508bd5-1d66-41a9-8e3b-eca1540ed390" />
+<img width="1567" height="883" alt="Screenshot 2026-04-20 182737" src="https://github.com/user-attachments/assets/d51a6fe4-4bfb-4f37-b582-f51621fc7cd2" />
 
 ### Input 
-<img width="1567" height="883" alt="Screenshot 2026-04-20 182737" src="https://github.com/user-attachments/assets/d51a6fe4-4bfb-4f37-b582-f51621fc7cd2" />
+<img width="1911" height="870" alt="Screenshot 2026-04-20 181957" src="https://github.com/user-attachments/assets/9c508bd5-1d66-41a9-8e3b-eca1540ed390" />
 
 #### Result
 <img width="1592" height="814" alt="Screenshot 2026-04-20 181943" src="https://github.com/user-attachments/assets/e7c84cca-4c9c-4ada-bc01-aead80c1e0bc" />
